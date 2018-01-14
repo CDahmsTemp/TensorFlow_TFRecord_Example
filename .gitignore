@@ -1,0 +1,8 @@
+# MNIST_data directory, this can be generated each time the script is ran
+MNIST_data
+
+# TensorFlow graph data files
+events.out.tfevents*
+
+*.tfrecord
+*.tfrecords
